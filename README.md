@@ -1,2 +1,3 @@
 # ocp4-tools
-Repo para  el cursoi de Red Hat Openshift 4 Resources and Tools
+#
+# Repo para el curso de RedHat Openshift 4 Resources and Tools
